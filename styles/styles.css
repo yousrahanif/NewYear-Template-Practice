@@ -1,0 +1,445 @@
+*{
+    margin: 0 auto;
+}
+#header-container{
+   
+    width:  1320px;
+    height: 660px;
+
+    background-image: url('/images/Banner\ Image.png');
+background-repeat: no-repeat;
+    
+}
+#header-container .sub-title{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#header-container .title{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+letter-spacing: 0%;
+text-align: center;
+}
+#section1 .off{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 58px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+#section1 .subtitle{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+#section1 .categories{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
+#section1 .new-year-img{
+    width: 802px;
+    height: 500px;
+}
+#section2{
+    background-image: url('/images/Vectorrr.png');
+    width:  1320px;
+    height: 660px;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+ 
+}
+#section2 .text-title{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: left;
+margin-left: 126px;
+}
+#section2 .text-desc{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 28px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 126px;
+}
+#section2 .join-now{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    
+    text-transform: uppercase; 
+    margin-left: 226px;
+    margin-top: 48px;
+}
+.parent-div{
+    display: flex;
+   justify-content: space-between;
+    align-items: center;
+    
+    
+}
+#section2 .pic-div{
+    /* Layer 1 */
+
+width: 349.16px;
+height: 464.65px;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+ 
+}
+#section3{
+    width:  1320px;
+    height: 660px;
+   
+}
+
+#section3 .section3-header{
+   /* Vector */
+
+width: 1320px;
+height: 482px;
+
+
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+  
+
+}
+#section3 .section3-header .place{
+    /* Place: New Park Hotel Date: 31 December Night 2023 Time: Evening 7.30 pm to 12.30 am */
+
+width: 549px;
+height: 168px;
+padding-top:100px;
+text-align: center;
+
+
+}
+#section3 .btn-join-now{
+    /* Frame 1 */
+    margin-top:20px;
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 16px 32px 16px 32px;
+
+
+}
+.text-red{
+    color: red;
+    font-weight: bold;
+}
+.section3-parent-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+#section3 .best-offer{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+
+}
+#section3 .coming-soon{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+#section3 .child1-desc{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+#section3 .child-div2{
+    /* Ellipse 2 */
+
+
+box-sizing: border-box;
+border: 15px solid rgb(255, 0, 0);
+border-radius: 50%;
+padding: 15px 15px 15px 15px;
+
+}
+#section3 .class2024{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 20px;
+}
+#section3 .class2024-desc{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+margin-left: 20px;
+}
+#section3 .class2024img{
+    height: 140px;
+    width: 140px;
+}
+
+#section4{
+    width:  1320px;
+    height: 660px;
+    margin-top: 350px;
+   
+}
+#section4 .section4-subtitle{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#section4 .section4-title{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 91px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#section4 .section4-desc{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+#section4 .section4-img{
+   background-image: url("/images/Rectangle\ 2.png");
+   width:  1320px;
+   height: 660px;
+   background-repeat: no-repeat;
+   background-position: bottom;
+}
+#section4 .section4-discount img{
+    margin-left: 900px;
+    margin-top: 77px;
+    margin-right: 44px;
+    width: 206.84px;
+height: 206.84px;
+}
+#section5{
+    width:  1320px;
+    height: 660px;
+    margin-top: 560px;
+}
+
+
+#section5 .section5-best-gift{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+}
+#section5 .section5-awesome-portfolio{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: capitalize;
+}
+
+#section5 .section5-desc{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+#section5 .section5-img{
+    display: flex;
+    gap: 20px;
+    
+}
+
+#section6{
+    width:  1320px;
+    height: 660px;
+    margin-top: 450px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+
+}
+#section6 .section6-img{
+    text-align: center;
+
+}
+#section6 .section6-subs{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+#section6 .section6-desc{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+}
+#section6 .section6-input{
+    margin-top: 80px;
+    border-radius: 50px;
+
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    text-align: center;
+    width: 648px;
+height: 72px;
+}
+#section6 .section6-email{
+    color: rgba(7, 2, 17, 0.3);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: center;
+    
+}
+
+#section6 .section6-submit{
+    border-radius: 0px 50px 50px 0px;
+
+background: rgb(255, 0, 0);
+font-size: 18px;
+font-weight: 400;
+border: none;
+padding: 3px;
+    
+}
+footer{
+    width:  1320px;
+    height: 660px;
+    background-color: black;
+
+
+}
+.left{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+}
+.right{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0%;
+text-align: left;
+
+
+}
+.footerDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 150px;
+    
+}
+.icons{
+    
+    margin-left:561px ;
+    margin-right: 261px;
+    margin-top: 20px;
+}
+.copyright{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left;  
+}
+.unsubs{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: left; 
+    margin-left:615px ;
+}
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
